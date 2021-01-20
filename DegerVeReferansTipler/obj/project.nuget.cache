@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yyzyQX1zRSBsmkCwOBf98+HEO9Ee1Pb7M61ma1Py1tB0tXdJ4GQocXnc2M01o23sW4utnuvFRW3lxWZnOb80sQ==",
+  "dgSpecHash": "CybSklJX5oXXJADCp5145oS59pG4R2yztupmdDulmJp8ZJ6CpDUMCbsW4mUQCR7TZUg/ef9baXHbnxKYfcSvmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\URAS\\source\\repos\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\URAS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\URAS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

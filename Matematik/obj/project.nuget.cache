@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jykjiLb6fO3E2SeCys/FWGpHHmmqTDUsrzqvuKvzc0IPteSl6oG3tSvD+RrjJaBQ0WqyTSmaevwPNpxrX73n4g==",
+  "dgSpecHash": "guMjeBeltE5xFqJP08RmWMu7/JDwWhl6QGmd4+Mwxq02Z4N1yEoCHyE2RMjTiLfTVhJV3W43ZqVa5AyOlyBFeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\URAS\\source\\repos\\KampIntro\\Matematik\\Matematik.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\URAS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\URAS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
