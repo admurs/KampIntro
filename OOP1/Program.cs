@@ -5,7 +5,7 @@ namespace OOP1
     class Program
     {
         static void Main(string[] args)
-        {
+        {//Ürün ekleme
             Product product1=new Product();
             product1.Id = 1;
             product1.CategoryId = 2;
